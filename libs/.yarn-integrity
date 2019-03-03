@@ -7,10 +7,12 @@
   "linkedModules": [],
   "topLevelPatterns": [
     "bootstrap-sass@^3.4.0",
+    "bootstrap@3.4.1",
     "jquery@^3.3.1"
   ],
   "lockfileEntries": {
     "bootstrap-sass@^3.4.0": "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.0.tgz#b1c330a56782347f626d31d497fa4aea16b3f99b",
+    "bootstrap@3.4.1": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72",
     "jquery@^3.3.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
   },
   "files": [],
