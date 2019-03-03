@@ -11,7 +11,7 @@
     "jquery@^3.3.1"
   ],
   "lockfileEntries": {
-    "bootstrap-sass@^3.4.0": "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.0.tgz#b1c330a56782347f626d31d497fa4aea16b3f99b",
+    "bootstrap-sass@^3.4.0": "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.1.tgz#6843c73b1c258a0ac5cb2cc6f6f5285b664a8e9a",
     "bootstrap@3.4.1": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72",
     "jquery@^3.3.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
   },
